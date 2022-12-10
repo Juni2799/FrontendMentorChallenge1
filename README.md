@@ -35,8 +35,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Frontend-Mentor-Solution-Link](https://www.frontendmentor.io/solutions/product-preview-card-component-xCWUUfuFHb)
+- Live Site URL: [Netlify-Link](https://charming-mochi-6c41fa.netlify.app/)
 
 ## My process
 
